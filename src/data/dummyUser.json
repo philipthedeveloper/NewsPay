@@ -1,0 +1,11 @@
+{
+    "_id": "6569d1a07b35fc2b6db4de22",
+    "name": "John Doe",
+    "email": "philipowolabi79@gmail.com",
+    "gender": "male",
+    "dob": "2002-03-10T23:00:00.000Z",
+    "isLoggedIn": false,
+    "createdAt": "2023-12-01T12:29:20.165Z",
+    "updatedAt": "2023-12-22T07:21:08.669Z",
+    "__v": "0"
+}
